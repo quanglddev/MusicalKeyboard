@@ -1,0 +1,18 @@
+{
+  "name": "musicalkeyboard",
+  "version": "1.0.0",
+  "description": "Play a random note everytime you click on the keyboard.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quang Luong",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  },
+  "dependencies": {
+    "annyang": "^2.6.0"
+  }
+}
